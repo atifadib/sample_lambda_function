@@ -1,0 +1,3 @@
+hi i am using aws lambda
+lambda function is invoked on file upload to s3
+
